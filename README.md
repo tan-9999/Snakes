@@ -20,7 +20,14 @@ A fun game from our childhood, "Snakes"
 To download the game(.apk),
 Click the link below...
 
-[![Download APK](img.shields.io)]([YOUR_COPIED_URL](https://github.com/tan-9999/Snakes/blob/main/app-release.apk)
+[![Download APK](img.shields.io)](https://github.com/tan-9999/Snakes/blob/main/app-release.apk)
+
+
+
+<a href="https://github.com/tan-9999/Snakes/blob/main/app-release.apk" download>
+    <button>Download APK</button>
+</a>
+
 
 
 
